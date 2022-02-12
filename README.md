@@ -1,3 +1,15 @@
+
+# Project Description
+User can add Income and expenses,
+
+User can delete any added income/expense
+
+Get the Total balance,
+
+Get the Income, Expenses total
+
+Get the Transaction History
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
